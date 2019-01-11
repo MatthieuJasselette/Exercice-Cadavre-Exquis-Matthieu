@@ -1,1 +1,1 @@
-L'hisitoire du **petit gros** et du *grand tordu*.
+L'histoire du **petit gros** et du *grand tordu*.
