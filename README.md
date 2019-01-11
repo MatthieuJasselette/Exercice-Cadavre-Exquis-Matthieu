@@ -25,3 +25,5 @@ Commençons à coder
 Ne désespérons pas
 *On va y arriver*
 <s>Ou pas c'est vraiment chaud</s>
+
+Sans fautes, bravo
